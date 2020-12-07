@@ -9,9 +9,10 @@
 }
 .first1-box{
     background-color: white;
-    height: 126px;
+    /* height: 126px; */
+    height: 97%;
     border: 2px solid black;
-    width: 32.95%;
+    width: 32.8%;
     display: inline-block;
 }
 
@@ -63,13 +64,13 @@
     width: 30%;
     background-color: black;
     margin-left: 30.2%;
-    margin-top: -14.6%;
+    margin-top: -260px;
 }
 
 .third2-1-box{
     height: 254px;
     border: 1px solid black;
-    width: 49.2%;
+    width: 49%;
     background-color: white;
     display: inline-block;
 }
@@ -87,7 +88,7 @@
     width: 39.4%;
     background-color: white;
     float: right;
-    margin-top: -14.4%;
+    margin-top: -259px;
 }
 
 .forth-box{
@@ -99,7 +100,7 @@
     height: 125px;
     border: 2px solid black;
     background-color: white;
-    width: 49.6%;
+    width: 49.55%;
     display: inline-block;
 }
 
@@ -113,6 +114,6 @@
     height: 125px;
     border: 2px solid black;
     background-color: white;
-    width: 49.6%;
+    width: 49.55%;
     display: inline-block;
 }
