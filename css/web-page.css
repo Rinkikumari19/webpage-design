@@ -1,228 +1,90 @@
-/* * {
+* {
     margin: 0;
     padding: 0;
+    font-size: 0%;
+    box-sizing: border-box;
 }
-.first-box{
-    background-color: black;
-    height: 130px;
-    border: 3px solid red;
-}
-.first1-box{
-    background-color: white;
-    height: 97%;
-    border: 2px solid black;
-    width: 32.8%;
-    display: inline-block;
-}
-
-
-.second-box{
-    background-color: white;
-    height: 260px;
-    border: 3px solid red;
-}
-.second-l-box{
-    background-color: white;
-    height: 256px;
-    border: 2px solid black;
-    width: 99.8%;
-}
-.second0-l-box{
-    height: 254px;
-    border: 2px solid black;
-    width: 50%;
-}
-.second1-l-box{
-    background-color: white;
-    height: 123px;
-    border: 2px solid blue;
-}
-
-
-.third-box{
-    background-color: black;
-    height: 260px;
-    border: 3px solid red;
-}
-
-.third1-box{
-    height: 256px;
-    border: 2px solid black;
-    width: 30%;
-    background-color: white;
-}
-.third1-1-box{
-    height: 124px;
-    border: 2px solid blue;
-    width: 99.3%;
-}
-
-.third2-box{
-    height: 256px;
-    border: 2px solid black;
-    width: 30%;
-    background-color: black;
-    margin-left: 30.2%;
-    margin-top: -260px;
-}
-
-.third2-1-box{
-    height: 254px;
-    border: 1px solid black;
-    width: 49%;
-    background-color: white;
-    display: inline-block;
-}
-
-
-.third3-1-box{
-    height: 80.5px;
-    border: 2px solid blue;
-    background-color: white;
-}
-
-.third3-box{
-    height: 254px;
-    border: 2px solid black;
-    width: 39.4%;
-    background-color: white;
-    float: right;
-    margin-top: -259px;
-}
-
-.forth-box{
-    height: 130px;
-    border: 3px solid red;
-    background-color: black; 
-}
-.forth1-box{
-    height: 125px;
-    border: 2px solid black;
-    background-color: white;
-    width: 49.55%;
-    display: inline-block;
-}
-
-
-.fifth-box{
-    height: 130px;
-    border: 3px solid red;
-    background-color: black; 
-}
-.fifth1-box{
-    height: 125px;
-    border: 2px solid black;
-    background-color: white;
-    width: 49.55%;
-    display: inline-block;
-} */
-
-
-
-
 
 .column {
     float: left;
     width: 33.33%;
     padding: 10px;
     border: 2px solid black;
-    box-sizing: border-box;
     height: 150px; 
 }
 .row{
     height: 156px;
-    border: 3px solid red;
-    box-sizing: border-box;
+    border: 3px solid red;  
 }
 
-
-.column2 {
-    float: left;
-    width: 50%;
-    border: 2px solid black;
-    height: 300px;
-    box-sizing: border-box;
-}
-.row2{
-    height: 306px;
-    border: 3px solid red;
-    box-sizing: border-box;
-}
 
 .sub-colomn2{
-    height: 144px;
+    height: 148px;
     border: 2px solid blue;
 } 
+.row2{
+    border: 3px solid red;
+}
+.column2{
+    width: 50%;
+    height: 300px;
+    display: inline-block;
+    box-sizing: border-box;
+    border: 2px solid black;  
+}
 
 .row3{
     height: 306px;
     border: 3px solid red;
-    box-sizing: border-box;
 }
-
-
 .column31 {
     float: left;
     width: 28%;
     border: 2px solid black;
-    box-sizing: border-box;
     height: 300px; 
 }
 .column32 {
     float: left;
     width: 14%;
     border: 2px solid black;
-    box-sizing: border-box;
     height: 300px; 
 }
-
 .column34{
     float: left;
     width: 44%;
     border: 2px solid black;
-    box-sizing: border-box;
     height: 300px; 
 }
-
 .sub-colomn31{
-    height: 144px;
+    height: 148px;
+    border: 2px solid blue;
+} 
+.sub-colomn34{
+    height: 99px;
     border: 2px solid blue;
 } 
 
-.sub-colomn34{
-    height: 95px;
-    border: 2px solid blue;
-} 
 
 .row4{
-    height: 156px;
     border: 3px solid red;
-    box-sizing: border-box;
 }
-
-
-.column4 {
-    float: left;
+.column4{
     width: 50%;
-    padding: 10px;
-    border: 2px solid black;
+    height: 150px;
+    display: inline-block;
     box-sizing: border-box;
-    height: 150px; 
+    border: 2px solid black; 
 }
+
+
 .row5{
-    height: 156px;
     border: 3px solid red;
-    box-sizing: border-box;
 }
-
-.column5 {
-    float: left;
+.column5{
     width: 50%;
-    padding: 10px;
-    border: 2px solid black;
+    height: 150px;
+    display: inline-block;
     box-sizing: border-box;
-    height: 150px; 
-} 
-
-
+    border: 2px solid black;  
+}
 
